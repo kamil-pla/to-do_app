@@ -1,0 +1,9 @@
+clean general
+clean bedroom
+play chess
+play cards
+Clean wardrobe
+do washing
+add new contacts
+throw garbage
+play guitar

@@ -7,3 +7,5 @@ do washing
 add new contacts
 throw garbage
 play guitar
+ride a bike
+clean auto

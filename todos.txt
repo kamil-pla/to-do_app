@@ -1,11 +1,11 @@
 clean general
 clean bedroom
-play chess
-play cards
-Clean wardrobe
+clean wardrobe
 do washing
 add new contacts
-throw garbage
 play guitar
 ride a bike
 clean auto
+fix desktop
+clean bicycle
+go to forest
